@@ -470,8 +470,7 @@ The `exit42` payload (`payload/exit42.asm`) is a minimal self-contained ELF that
 
 ## License
 
-This project does not currently include a license file. All rights are reserved by the author unless stated otherwise.
-
+MIT
 ---
 
 ## Contact & Contributions
